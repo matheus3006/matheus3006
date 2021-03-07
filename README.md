@@ -2,9 +2,9 @@
 
 I'm a full-stack developer passionate about learning new things through programming that help create solutions that add up to human development. 🚀
 
-🔭 I’m currently working at PixelTi as a Back-End developer
-🎓 I’m currently studying Information Systems at Federal University of Itajubá Brazil Flag (UNIFEI)
-🌱 I’m constantly learning and improving my skills. 💻📱
+🔭 I’m currently working at PixelTi as a Back-End developer  
+🎓 I’m currently studying Information Systems at Federal University of Itajubá Brazil Flag (UNIFEI)  
+🌱 I’m constantly learning and improving my skills. 💻📱  
 #Nodejs
 
 <br/> 📫 How to reach me: <a href="https://www.linkedin.com/in/matheus-souza-264783b8/">

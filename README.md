@@ -22,19 +22,25 @@ Technical Skills:
 
 Front-end:
 * ReactJS 
-* TypeScript
+* SwiftUI
+
+Back-end:
+* Typescript 
+* Java
+* MongoDB
 * GraphQL and REST
-* React Native.
-* Accessibility and Internalization.
+* Nodejs.
+* Postgress SQL
 * ESlint, Prettier, Husky, etc
-* Full responsive designs for mobile(Android and IOS), tablet, and desktop. 
-* Designs with Figma.
 
 Tests
 * Unit, integration, and E2E tests
 * Jest
 * React testing library
 * Cypress
+* JUnit
+* Cucumber
+* LeanFt
 
 Services, Process, and SoftSkills:
 * English
@@ -43,13 +49,15 @@ Services, Process, and SoftSkills:
 * REST and GraphQL API
 * Clean Code, Clean Architecture, and Design Patterns.
 * TDD (Test-driven development)
+* BDD (Behavior Driven Development)
+* Redis
 
 
 DevOps
 * Docker
 * AWS
  
-- 🔭 I’m currently working at <a href="https://www.wipro.com/pt-BR/" target="_blank"> Wipro </a> as a Java Test Automation Engineer
+- 🔭 I’m currently working at <a href="https://www.wipro.com/pt-BR/" target="_blank"> Wipro </a> as a Java Developer Engineer
 - 🎓 I’m currently studying Information Systems at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m constantly learning and improving my skills in TypeScript, ReactJS, React Native, Swift and Java.  💻📱
 

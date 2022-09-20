@@ -12,11 +12,11 @@ _______________
 
 I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Developer, I have continuously worked to improve my skills and optimize my projects more and more.
 
-I've broad experience with ReactJS, React Native and Typescript, Nodejs, Java, Swift .
+I've broad experience with Typescript, Nodejs, Java, Swift and Reactjs.
 
 Working with development has never been "just a passion" for me. It has offered an engaging challenge to continuously learn and improve my skills in creating better application. What started with just a curiosity of building something has become a full-fledged passion that only makes me more interested as the years go by. :rocket:
 
-I've been working with as a fullstack development since 2019, my main technologies are Typescript, Nodejs, Reactjs and React-Native.
+I've been working as a developer since 2019, my main technologies are Typescript, Nodejs,Java .
 
 Technical Skills:
 

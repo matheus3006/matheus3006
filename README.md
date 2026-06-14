@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full-stack engineer since 2019 — building the discipline of <i>agentic engineering</i>.</b><br/>
   Portable context-control, validation hooks and spec-driven workflows that make AI coding agents reliable —<br/>
-  applied across <b>Go</b>, <b>.NET</b>, <b>TypeScript</b> and <b>Flutter</b> products.
+  applied across <b>.NET</b>, <b>Java/Kotlin</b>, <b>Go</b> and <b>TypeScript</b>.
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ### 🧭 About
 
-Full-stack software engineer since 2019, based in Itajubá-MG, Brazil. By day I build **transactional systems in .NET for fintech at BTG**. Most of my own time goes to a question that's reshaping how I work: **how do you engineer reliably _with_ AI coding agents — instead of just prompting them and hoping?**
+Backend engineer since 2019 (full-stack when my own products need it), based in Itajubá-MG, Brazil. By day I build **backend systems for fintech at BTG** — fraud prevention, identity verification, credit and payroll lending — **currently in .NET**, on top of a **Java · Kotlin · Go** background, with resilient microservices on AWS and Kubernetes. Most of my own time goes to a question that's reshaping how I work: **how do you engineer reliably _with_ AI coding agents — instead of just prompting them and hoping?**
 
 My answer is a repeatable, tool-agnostic method: deterministic **context control** enforced by deny-capable hooks (every production edit has to trace back to a planned, approved task), **validation hooks**, **prototype-before-code**, **living documentation**, and **portable skills/commands** that behave the same across Amazon Q, GitHub Copilot, Kiro, Codex, Gemini CLI and Claude Code.
 
-I package that method as open tooling — and I ship real products with it: a Go multi-tenant SaaS for nutritionists, a Next.js + Flutter + Supabase restaurant platform, a Go modulith for collaborative gifting, and an automated content pipeline. Polyglot by necessity (Go, TypeScript, .NET, Java, Flutter), methodical on purpose.
+I package that method as open tooling — and I ship real products with it: a Go multi-tenant SaaS for nutritionists, a Next.js + Flutter + Supabase restaurant platform, a Go modulith for collaborative gifting, and an automated content pipeline. Polyglot by necessity (.NET, Java, Kotlin, Go, TypeScript, Flutter), methodical on purpose.
 
 ---
 
@@ -60,12 +60,12 @@ I package that method as open tooling — and I ship real products with it: a Go
 
 **Languages**
 
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frameworks & runtimes**
@@ -77,16 +77,21 @@ I package that method as open tooling — and I ship real products with it: a Go
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Data & infra**
+**Data, infra & delivery**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber%20%2F%20BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 **AI-agent tooling**
 

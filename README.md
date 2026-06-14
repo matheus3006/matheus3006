@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full-stack engineer since 2019 — building the discipline of <i>agentic engineering</i>.</b><br/>
   Portable context-control, validation hooks and spec-driven workflows that make AI coding agents reliable —<br/>
-  applied across <b>.NET</b>, <b>Java/Kotlin</b>, <b>Go</b> and <b>TypeScript</b>.
+  applied across <b>Java/Kotlin</b>, <b>Go</b>, <b>.NET</b> and <b>TypeScript</b>.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🧭 About
 
-Backend engineer since 2019 (full-stack when my own products need it), based in Itajubá-MG, Brazil. By day I build **backend systems for fintech at BTG** — fraud prevention, identity verification, credit and payroll lending — **currently in .NET**, on top of a **Java · Kotlin · Go** background, with resilient microservices on AWS and Kubernetes. Most of my own time goes to a question that's reshaping how I work: **how do you engineer reliably _with_ AI coding agents — instead of just prompting them and hoping?**
+Backend engineer since 2019 (full-stack when my own products need it), based in Itajubá-MG, Brazil. By day I'm a **Senior Software Engineer at Banco PAN (BTG Group)**, building banking backends at scale — **fraud prevention, biometric identity verification, and real-time risk decisioning** — in **Java · Kotlin · Spring Boot** (recently **.NET**), cloud-native on AWS with Docker and Kubernetes. Most of my own time goes to a question that's reshaping how I work: **how do you engineer reliably _with_ AI coding agents — instead of just prompting them and hoping?**
 
 My answer is a repeatable, tool-agnostic method: deterministic **context control** enforced by deny-capable hooks (every production edit has to trace back to a planned, approved task), **validation hooks**, **prototype-before-code**, **living documentation**, and **portable skills/commands** that behave the same across Amazon Q, GitHub Copilot, Kiro, Codex, Gemini CLI and Claude Code.
 
